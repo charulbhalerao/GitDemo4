@@ -5,6 +5,7 @@ public class CoreJavaBrushUp2 {
 		// TODO Auto-generated method stub
 
 		int[] arr2 = {1,2,3,4,5,6,7,8,9,10,11,12};
+		String name = "Charul";
 		
 		//multiples of 2
 		
@@ -20,6 +21,8 @@ public class CoreJavaBrushUp2 {
 				System.out.println(arr2[i] +"is not multiple of 2");
 			}
 		}
+		System.out.println(name);
+		
 	}
 
 }
